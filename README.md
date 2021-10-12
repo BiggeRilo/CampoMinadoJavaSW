@@ -4,7 +4,7 @@ The game generates an arbitary number of fields and randomly puts a mine in a sp
 graphical interface made in Swing 
 
 ## How it looks
-![ImagemCampoMinado](https://raw.githubusercontent.com/BiggeRilo/Images/main/Imagens/Campo%20Minado.PNG?token=ANWNSFH6ZUQMRDPZJIMWEKTBMT3KG)
+![ImagemCampoMinado](https://raw.githubusercontent.com/BiggeRilo/Images/main/Imagens/Campo%20Minado.PNG?token=ANWNSFB5CUJ6LWLTDSADF7LBMT4DQ)
 
 #### Simple mouse hover color change
 ![ImagemCampoMinado2](https://raw.githubusercontent.com/BiggeRilo/Images/main/Imagens/CampoMinado2.PNG?token=ANWNSFHHGL4TWKTLFLQH5XDBMT3R2)
