@@ -4,19 +4,20 @@ The game generates an arbitary number of fields and randomly puts a mine in a sp
 graphical interface made in Swing 
 
 ## How it looks
-![ImagemCampoMinado](https://raw.githubusercontent.com/BiggeRilo/Images/main/Imagens/Campo%20Minado.PNG?token=ANWNSFB5CUJ6LWLTDSADF7LBMT4DQ)
+![ImagemCampoMinado]
 
 #### Simple mouse hover color change
-![ImagemCampoMinado2](https://raw.githubusercontent.com/BiggeRilo/Images/main/Imagens/CampoMinado2.PNG?token=ANWNSFHHGL4TWKTLFLQH5XDBMT3R2)
+![ImagemCampoMinado2]
 
 #### How it looks after a move is made
-![ImagemCampoMinado3](https://raw.githubusercontent.com/BiggeRilo/Images/main/Imagens/CampoMinado3.PNG?token=ANWNSFFYIMGC5QAJCR6PBZTBMT3R6)
+![ImagemCampoMinado3]
 
 #### How it looks when a field is marked 
-![ImagemCampoMinado4](https://raw.githubusercontent.com/BiggeRilo/Images/main/Imagens/CampoMinado4.PNG?token=ANWNSFCPJN2OLUDW6KZIKFLBMT3Z4)
+
+![ImagemCampoMinado4]
 
 #### How it looks when you loose the game
-![ImagemCampoMinado5](https://raw.githubusercontent.com/BiggeRilo/Images/main/Imagens/CampoMinado5.PNG?token=ANWNSFAW6SWKQ2ESY4RFRTDBMT366)
+![ImagemCampoMinado5]
 
 # What a learned
 
